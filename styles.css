@@ -747,7 +747,7 @@ input[type=text], textarea {
 }
 
 .contact-sect{
-    margin-top: 20px;
+    margin-top: -270px;
     height: 80vh;
     background: #f7f7f7;
 
@@ -851,6 +851,10 @@ textarea {
     background-color: #EB8951;
     font-size: 18px;
     margin-top: 10px
+}
+#submit:hover{
+    cursor: pointer;
+    background-color:burlywood
 }
 
 .resume-container {
