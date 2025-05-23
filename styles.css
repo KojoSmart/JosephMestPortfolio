@@ -29,7 +29,9 @@ header{
     padding: 15px;
     z-index: 99;
     background-color: #fff;
-    box-shadow: 4px 5px 8 rgb(0, 0, 1);
+    /* box-shadow: 4px 5px 8 rgb(0, 0, 1); */
+          box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+
 }
 
 header h3{
@@ -44,6 +46,7 @@ ul{
     column-gap: 30px;
     list-style-type: none;
     justify-content: space-between;
+    
 }
 
 ul li{
